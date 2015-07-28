@@ -2,8 +2,8 @@
 
 ### Fall 2014
 
-Sheehan Toufiq
-Benjamin Byrd
-Justin Patel
-Andrew Rutherford
-Suraj Sequeira
+* Sheehan Toufiq
+* Benjamin Byrd
+* Justin Patel
+* Andrew Rutherford
+* Suraj Sequeira
