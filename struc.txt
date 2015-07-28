@@ -1,0 +1,12 @@
+
+Service: Auth()						<---- Controller: AuthController()
+																									|--------------------> 		
+
+Service: Manager()				<---- Controller: ManagerController()
+																									|-------------------->
+
+Service: Employees()			<---- Controller: EmployeesController()
+																									|-------------------->
+
+Service: Transactions() 	<---- Controller: TransactionsController()
+																									|-------------------->

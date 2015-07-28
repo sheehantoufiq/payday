@@ -1,0 +1,28 @@
+<h1>Login</h1>
+
+<form ng-submit="login()">
+	
+	<input type="text" placeholder="Username" ng-model="user.username"><br>
+	<input type="text" placeholder="Password" ng-model="user.password"><br>
+
+	<button type="submit">Login</button>
+</form>
+
+<p style="color:red;">{{ errorMsg }}</p>
+<br>
+
+<p>
+	<b>Manager:</b><br>
+	username: manager1<br>
+	password: manager
+</p>
+<p>
+	<b>Employee 1:</b><br>
+	username: employee1<br>
+	password: employee
+</p>
+<p>
+	<b>Employee 2:</b><br>
+	username: employee2<br>
+	password: employee
+</p>

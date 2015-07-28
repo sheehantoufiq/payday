@@ -1,0 +1,38 @@
+Suraj
+
+netprofitObject
+taxesObject
+CheckProfitLossStatementObject
+CheckTaxesObject
+ViewProfitLossObject
+ViewTaxesObject
+
+Benjamin Byrd
+
+ManagerPayControl
+
+Entity- 	userObject
+
+
+Control- 	viewEmployeeRecordObject
+         	editEmployeeRecordObject
+
+Boundary-	employeeRecordSelectObject
+		employeeRecordChangeRequestObject
+
+Revenue
+
+Entity-		userObject 	
+
+Control-	transactionEditObject
+		revenueReportObject
+
+Boundary-	addTransactionObject
+		editTransactionObject
+		viewRevenueRequestObject
+____________________________________________________________________________________________
+
+We removed multiple redundant RTMs’ and simplified the program requirements.
+We developed user interaction diagrams that show a conceptual/graphical representation of the use case flow chart.
+Removed Employee view function of their clock-in/out times.
+Technical Writer: Produces technical documents for the project.
